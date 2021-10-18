@@ -1,0 +1,17 @@
+{
+    "name": "kbardy/composer",
+    "description": "quete composer",
+    "autoload": {
+        "psr-4": {
+            "App\\" : "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "kbardy",
+            "email": "k.bardy@laposte.net"
+        }
+    ],
+
+    "require": {}
+}
